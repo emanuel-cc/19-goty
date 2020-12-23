@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "goty"
+    }
+  },
+  "defaultProject": "goty",
+  "cli": {
+    "analytics": "ae397b58-04aa-4e88-a3e1-f686f6c44085"
+  }
 }
